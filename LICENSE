@@ -1,21 +1,23 @@
-MIT License
+Custom License Agreement
+Software Name: BotCompRemote
 
-Copyright (c) 2024 _hamster_.
+Author: _hamster_.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Grant of Use
+This software (hereafter referred to as "the Software") is provided to the end-user (hereafter referred to as "the User") under the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The User is granted permission to use, modify, and integrate this Software into their personal projects.
+The User is allowed to use the Software solely for personal or internal business purposes.
+2. Restrictions
+The User may not:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Reproduce, distribute, sublicense, sell, or otherwise exploit the Software or any of its components, whether modified or unmodified, for commercial purposes.
+Share the Software, in its original or modified form, in public repositories or distribute it to third parties.
+3. No Warranty
+The Software is provided "as-is," without any express or implied warranty. In no event shall the author be held liable for any damages arising from the use of the Software.
+
+4. Modification and Redistribution
+The User may modify the Software for personal use but may not redistribute or share the modified version in any way, including public repositories, websites, or third-party services.
+
+5. Termination
+Any violation of the terms in this License will result in the immediate termination of the rights granted herein.
