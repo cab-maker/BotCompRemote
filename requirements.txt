@@ -1,0 +1,7 @@
+discord.py
+requests
+pprint
+opencv-python (cv2)
+pygetwindow
+pyautogui
+BeautifulSoup4 (bs4)
