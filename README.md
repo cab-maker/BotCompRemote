@@ -23,7 +23,7 @@ BotCompRemote is a simple Python Discord bot that allows you to control your com
 ### 1. Clone the Repository
 To get started, clone the repository from GitHub by running:
 
-- `git clone https://github.com/YourUsername/BotCompRemote.git`
+- `git clone https://github.com/cab-maker/BotCompRemote/`
 - `cd BotCompRemote`
 
 ### 2. Install Dependencies
