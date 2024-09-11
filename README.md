@@ -1,3 +1,8 @@
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+
 # BotCompRemote
 
 BotCompRemote is a simple Python Discord bot that allows you to control your computer remotely. You can access the computer’s IP, open or close applications, take screenshots, find and manage browser tabs, control the webcam, and more using Discord commands. This bot can also be helpful if your computer is stolen and you want to locate its IP address.
